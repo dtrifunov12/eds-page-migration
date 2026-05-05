@@ -1,0 +1,44 @@
+{
+  "url": "https://www.diva-e.com/en/",
+  "timestamp": "2026-05-05T10:35:46.558Z",
+  "paths": {
+    "documentPath": "/en/index",
+    "htmlFilePath": "en/index.plain.html",
+    "mdFilePath": "en/index.md",
+    "dirPath": "en",
+    "filename": "index"
+  },
+  "screenshot": "./import-work/screenshot.png",
+  "html": {
+    "filePath": "./import-work/cleaned.html",
+    "size": 0
+  },
+  "metadata": {
+    "title": "Your digital experience partner | diva-e Conclusion",
+    "description": "Your Digital Experience Partner. diva-e Conclusion is your partner for digital excellence: from strategy to implementation, we offer end-to-end solutions for sustainable business success.",
+    "author": "diva-e Digital Value Excellence GmbH",
+    "og:title": "Your digital experience partner | diva-e Conclusion",
+    "og:description": "Your Digital Experience Partner. diva-e Conclusion is your partner for digital excellence: from strategy to implementation, we offer end-to-end solutions for sustainable business success.",
+    "og:image": "https://a.storyblok.com/f/194188/800x420/2f253d4b5d/og-image.png",
+    "og:type": "website",
+    "og:url": "https://www.diva-e.com/en/",
+    "og:site_name": "diva-e",
+    "twitter:card": "summary",
+    "twitter:title": "Your digital experience partner | diva-e Conclusion",
+    "twitter:image": "https://a.storyblok.com/f/194188/800x420/2f253d4b5d/og-image.png",
+    "canonical": "https://www.diva-e.com/en/",
+    "robots": "index, follow",
+    "viewport": "width=device-width, initial-scale=1"
+  },
+  "images": {
+    "count": 0,
+    "note": "Image downloads were skipped because the sandbox proxy does not permit access to a.storyblok.com. The HTML retains the original absolute Storyblok image URLs, which will resolve when the page is served from a network with internet access (e.g. localhost dev server, aem.page, aem.live).",
+    "mapping": {},
+    "stats": {
+      "total": 0,
+      "converted": 0,
+      "skipped": 0,
+      "failed": 0
+    }
+  }
+}
